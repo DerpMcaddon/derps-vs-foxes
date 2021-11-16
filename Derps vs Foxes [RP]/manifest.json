@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Derps vs Foxes RP",
+    "description": "I hate foxes so I made this pack",
+    "uuid": "44567aca-c593-675c-0506-b5d32e6d62d3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3a96e51b-ef24-441e-4764-39f2ae677766",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "bf48069a-f4c5-bfd2-cfb3-fee8ab8cf73c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
