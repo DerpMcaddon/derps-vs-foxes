@@ -5,3 +5,7 @@ Creator: DerpMcaddon
 
 Discord: Derp#8176
 Twitter: https://twitter.com/derp_mcaddon
+
+How to Contribute
+
+- Namespace should uses `derp:`
