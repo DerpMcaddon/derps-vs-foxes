@@ -1,0 +1,39 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Derps vs Foxes BP",
+    "description": "I hate foxes so I made this pack",
+    "uuid": "bf48069a-f4c5-bfd2-cfb3-fee8ab8cf73c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "eed7be28-b3c9-1e6a-b3f9-dcfe1205a3b7",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "44567aca-c593-675c-0506-b5d32e6d62d3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
