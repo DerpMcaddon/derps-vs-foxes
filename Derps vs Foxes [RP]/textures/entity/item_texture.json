@@ -1,9 +1,0 @@
-{
-	"resource_pack_name": "derps_vs_foxes",
-	"texture_name": "atlas.items",
-	"texture_data": {
-        "derp_wing": {
-            "textures": "textures/items/derp_wing"
-        }
-    }
-}
